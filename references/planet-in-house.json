@@ -1,0 +1,1235 @@
+{
+ "sources": {
+  "PD8": {
+   "title": "Phaladeepika (Mantreswara), ch. 8 'Effects of the Sun and other planets' in the 12 houses, tr. V. Subrahmanya Sastri",
+   "url": "https://www.wisdomlib.org/hinduism/book/phaladeepika-by-mantreswara-text-and-translation/d/doc1621580.html"
+  },
+  "PD8s": {
+   "title": "Phaladeepika ch. 8, verses 1-5 (Sun in houses 1-12), Sanskrit + English",
+   "url": "https://www.siva.sh/phaladeepika/8"
+  },
+  "SAR": {
+   "title": "Saravali (Kalyana Varma), ch. 30 'Effects of Planets in Bhavas' (Sun to Saturn), English tr. PDF",
+   "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology (Jyotish) collection/Saravali (Kalyana Varma).pdf"
+  },
+  "BS": {
+   "title": "Bhrigu Sutras with commentary (effects of the 9 planets in 12 houses; also quotes Phaladeepika and Chamatkar Chintamani)",
+   "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology (Jyotish) collection/Bhrigu Sutras (partial significance of the Planets and Houses).pdf"
+  },
+  "CC": {
+   "title": "Chamatkar Chintamani, Rahu/Ketu in houses, as quoted in the Bhrigu Sutras commentary (secondhand)",
+   "url": "https://lakshminarayanlenasia.com/wp-content/uploads/2022/10/docs2/LakshmiNarayanLenasia.com/Astrology (Jyotish) collection/Bhrigu Sutras (partial significance of the Planets and Houses).pdf"
+  },
+  "AV": {
+   "title": "AstroVed: Effects of Rahu in 12 houses",
+   "url": "https://www.astroved.com/blogs/effects-of-rahu-in-12-houses"
+  },
+  "AVk": {
+   "title": "AstroVed: Ketu in 12 houses of kundali",
+   "url": "https://www.astroved.com/blogs/ketu-in-12-houses-of-kundali"
+  },
+  "VF-Ma": {
+   "title": "VedicFeed: Mars in 12 houses",
+   "url": "https://vedicfeed.com/effects-of-mars-in-12-houses/"
+  },
+  "VF-Sa": {
+   "title": "VedicFeed: Saturn in 12 houses",
+   "url": "https://vedicfeed.com/saturn-effects-in-12-houses/"
+  },
+  "VF-Ve": {
+   "title": "VedicFeed: Venus in 12 houses",
+   "url": "https://vedicfeed.com/venus-effects-in-12-houses/"
+  },
+  "VF-Ra": {
+   "title": "VedicFeed: Rahu in 12 houses",
+   "url": "https://vedicfeed.com/effects-of-rahu-in-12-houses/"
+  },
+  "VF-Ke": {
+   "title": "VedicFeed: Ketu in 12 houses",
+   "url": "https://vedicfeed.com/ketu-in-12-houses-of-kundali/"
+  },
+  "EV": {
+   "title": "The Eye of Vedas: Rahu-Ketu axis in the twelve houses",
+   "url": "https://theeyeofvedas.blogspot.com/2025/11/effects-of-rahu-kethu-in-different-bhavas.html"
+  },
+  "VAW": {
+   "title": "Vedic Astrology Wiki: effects of planets in different houses (table, all 9 planets)",
+   "url": "https://vedic-astrology-wiki.blogspot.com/2025/08/planets-in-different-houses.html"
+  },
+  "PB": {
+   "title": "PanchangBodh: Sun in houses",
+   "url": "https://panchangbodh.com/sun-in-houses"
+  },
+  "DM": {
+   "title": "Daily Mirror (Sri Lanka) Jyotisha: effects Venus produces in the 12 bhavas",
+   "url": "https://dailymirror.lk/jyotisha-news/Effects-Venus-produces-in-the-Bhavas/312-151033"
+  }
+ },
+ "readings": {
+  "Sun": {
+   "1": {
+    "good": "Courage, pride and a strong presence; a natural leader.",
+    "caution": "Short temper, impatience, thin hair and weak eyesight; can seem harsh or proud.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "VAW",
+     "PB"
+    ]
+   },
+   "2": {
+    "good": "Can earn through government or official work; owns servants and animals.",
+    "caution": "Weak schooling, stammering or mouth trouble, and money lost to authorities or thieves.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS"
+    ]
+   },
+   "3": {
+    "good": "Brave, strong, generous and wins over rivals; well liked.",
+    "caution": "Strained ties with siblings and relatives; younger siblings may suffer.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "May hold a government post; gains standing later in life.",
+    "caution": "Little home comfort, few friends or vehicles, heart strain, and ancestral property wasted.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS",
+     "PB"
+    ]
+   },
+   "5": {
+    "good": "Sharp, intelligent mind; good for teaching and learning.",
+    "caution": "Few children or worry over them, little wealth, restlessness; father's health may suffer.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS"
+    ]
+   },
+   "6": {
+    "good": "Defeats enemies, strong digestion, wealth and fame; can rise to leadership.",
+    "caution": "Eye strain, acidity or heat problems if health is neglected.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS",
+     "PB"
+    ]
+   },
+   "7": {
+    "good": "Strong self-respect; partner of standing.",
+    "caution": "Late or strained marriage, friction with authority, health trouble and loss of face.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Late but lasting recognition; suits research.",
+    "caution": "Poor eyesight, money and friends lost, separation from relatives, weaker longevity.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS"
+    ]
+   },
+   "9": {
+    "good": "Religious, respects elders and gods; children, relatives and wealth.",
+    "caution": "Friction with or loss of father; not very lucky by default.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS"
+    ]
+   },
+   "10": {
+    "good": "Excellent for career, fame, power, wealth, vehicles and children; the Sun's best house.",
+    "caution": "Little downside; pride in status is the main risk.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS",
+     "PB"
+    ]
+   },
+   "11": {
+    "good": "Large gains, long life and recognition; success in undertakings.",
+    "caution": "Can be cold or distant with others; expectations may outrun income.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Suits work behind the scenes, abroad, or in spiritual retreat.",
+    "caution": "Distance from father, poor eyesight, money drains, few children; may live away from home.",
+    "src": [
+     "PD8s",
+     "SAR",
+     "BS",
+     "PB"
+    ]
+   }
+  },
+  "Moon": {
+   "1": {
+    "good": "If the Moon is bright (waxing): attractive, strong, long-lived, fearless and wealthy.",
+    "caution": "If waning or poorly placed: moody, unsteady, weaker health and declining fortune.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Wealth, gentle speech, good friends and family happiness.",
+    "caution": "Some physical defect or a pleasure-seeking nature.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Brothers and sisters, courage, cheerfulness; supports siblings.",
+    "caution": "Can be stingy or overly driven by desire.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS"
+    ]
+   },
+   "4": {
+    "good": "Happy home, vehicles, friends, generosity and love of mother; fond of water travel.",
+    "caution": "Mother's health may be delicate; happiness is moderate, not extreme.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Intelligent, learned, good children and friends; can become an adviser.",
+    "caution": "Timid or overly emotional.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Little; can serve others well.",
+    "caution": "Stomach trouble, illness, opposition and humiliation; a weak Moon shortens life.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Pleasant looks, happy and loving marriage; partner admires them.",
+    "caution": "A weak Moon here makes one dependent and frail; can be over-sensual.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Sharp intelligence and inner brilliance.",
+    "caution": "Recurring illness and losses; a weak Moon shortens life.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Lucky, religious, prosperous; children and success in what they start.",
+    "caution": "Few downsides; a weak Moon reduces father's support.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Good name, success at work, charitable and helpful; high status.",
+    "caution": "Few downsides; afflicted Moon can bring scandal.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Wealth, long life, children, helpers and a generous mind.",
+    "caution": "Few downsides; gains depend on the strength of the 11th house.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Can gain honour abroad or through charity.",
+    "caution": "Sadness, laziness, insults, eye trouble, wasteful spending and loneliness.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   }
+  },
+  "Mars": {
+   "1": {
+    "good": "Bold, energetic and brave; physically strong.",
+    "caution": "Injuries or scars, harshness, recklessness and anger; can shorten life.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Drive to build wealth through hard work.",
+    "caution": "Harsh speech, poor schooling, bad company, money and family trouble.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Very brave, wins over rivals, wealthy, happy and famous; good house for Mars.",
+    "caution": "Few or troubled ties with brothers and sisters; risk-taking.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "Can gain property through effort, especially if Mars is strong.",
+    "caution": "Loss of home comfort, land or vehicles; mother's health and family peace suffer.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Sharp, intense mind; passionate.",
+    "caution": "Few children or worry over them, unhappiness, loss of money and rash decisions.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Defeats enemies, wins disputes, strong health, wealth and fame; Mars's best house.",
+    "caution": "Impatience with others and a strong appetite for pleasure.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Passionate partner when well placed.",
+    "caution": "Marriage strain or loss of partner, illness, arguments and wandering; classic 'chevvai dosham' house.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Strong intuition; can see through deception.",
+    "caution": "Accidents, injury, illness, poverty and shorter life.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Favour with rulers or bosses; adventurous, travels far.",
+    "caution": "Loss of or conflict with father, little luck, rigid beliefs, violence.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Strong career, authority and respect; efficient, brave and admired.",
+    "caution": "Can be tough or harsh; career blocks if afflicted.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Wealth, land, courage, happiness and good gains; very good house for Mars.",
+    "caution": "Can be judgmental or impatient with others.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Patience with hardship when Mars is strong.",
+    "caution": "Money shortage, eye trouble, harshness, partner trouble, and risk of legal trouble or confinement.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VF-Ma",
+     "VAW"
+    ]
+   }
+  },
+  "Mercury": {
+   "1": {
+    "good": "Intelligent, well-spoken, learned in many subjects, healthy and long-lived.",
+    "caution": "Few downsides; can be restless or fond of travel.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Earns money by own wit; good speech, good food and good conduct.",
+    "caution": "Few downsides; afflicted Mercury can bring loss through bad dealings.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Skilful, clever, has siblings; brave in speech.",
+    "caution": "Tiring toil, low spirits, cunning or fickle nature.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "Learned, witty, happy; gains land, vehicles, friends and wealth.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Learned, happy, many children, skilled with words and mantras.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Wins arguments and legal cases; defeats rivals.",
+    "caution": "Harsh speech, illness, laziness, and frequent quarrels.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Wise and well-off; learned, attractive, wealthy partner.",
+    "caution": "Partner may be argumentative.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Fame, long life, supports family, can gain land and titles.",
+    "caution": "Few downsides in classical texts; modern readers note hidden worries.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Learned, wealthy, eloquent, religious and good-natured; many children.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Success at work, sharp mind, truthful, strong and well known.",
+    "caution": "Few downsides; occasional eye strain.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Wealth from many sources, long life, truthful, happy, helpers.",
+    "caution": "Afflicted Mercury can lose money through wrong dealings.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Learned; may spend on charity or good causes; keeps promises.",
+    "caution": "Low spirits, humiliation, laziness, poor schooling or a cold streak.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   }
+  },
+  "Jupiter": {
+   "1": {
+    "good": "Good looks, good fortune, wisdom, long life, courage and children.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Wealth, eloquence, good food and a pleasant face; speech comes true.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Can succeed and defeat rivals; may have a famous sibling.",
+    "caution": "Stinginess, humiliation, poor digestion and low conduct.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "Happy home, good mother, friends, vehicles, land and wealth.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Sharp intelligence; adviser to people in power; good children.",
+    "caution": "Sources differ: some say worry through children, others say many happy children.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Defeats enemies; can become well known.",
+    "caution": "Laziness, weak digestion or vitality, and being disrespected.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Good partner and children, learned, generous; may outshine father.",
+    "caution": "Few downsides; afflicted Jupiter here can bring affairs.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Long life.",
+    "caution": "Poverty, servile or low work, humiliation and bad conduct.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Very lucky: wealth, children, religious merit, high advisory or leadership role.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Good name, good conduct, wealth, success at work and friends in power.",
+    "caution": "Few downsides; afflicted Jupiter brings career obstacles.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Large gains, vehicles, helpers, fearlessness and long life.",
+    "caution": "Fewer children and limited formal education.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Spends on religious or good causes; spiritual leanings.",
+    "caution": "Laziness, harsh speech, few children, poor luck and servitude.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "VAW"
+    ]
+   }
+  },
+  "Venus": {
+   "1": {
+    "good": "Attractive, healthy, happy, long-lived; liked by others and loves fine things.",
+    "caution": "Can be vain or self-centred.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Wealth, fine food, good speech, artistic or poetic talent.",
+    "caution": "Can be a spendthrift.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Artistic skill, good ties with siblings, pleasant speech.",
+    "caution": "Sources differ: classical texts warn of partner trouble, low luck and stinginess.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "DM",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "Good house, vehicles, jewels, clothes, friends and a loving mother; very lucky.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Wealth, wisdom, good children, romance; can reach a high position.",
+    "caution": "Unstable love life from chasing attraction.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Some texts say enemies are defeated; good helpers.",
+    "caution": "Little wealth, grief, distaste for partner, health issues; sources differ on enemies.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "DM",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Attractive, loving partner, happy marriage and wealth.",
+    "caution": "Risk of affairs or losing a partner.",
+    "src": [
+     "PD8",
+     "SAR",
+     "BS",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Long life, wealth, inheritance or gains through partner.",
+    "caution": "Hidden affairs or secrecy; mother's health may suffer.",
+    "src": [
+     "PD8",
+     "SAR",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Partner, friends, children, wealth, religious nature and favour from those in power.",
+    "caution": "Few downsides.",
+    "src": [
+     "PD8",
+     "SAR",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Fame, good career, friends, honour and wealth; wins legal matters.",
+    "caution": "Possible betrayal by close people.",
+    "src": [
+     "PD8",
+     "SAR",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Large gains, comforts, many friends and loyal helpers.",
+    "caution": "Losses from bad advice of friends.",
+    "src": [
+     "PD8",
+     "SAR",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Comforts, pleasures and wealth; good sleep and bed comforts.",
+    "caution": "Overspending on pleasure, laziness, hidden love affairs or marriage strain.",
+    "src": [
+     "PD8",
+     "SAR",
+     "DM",
+     "VF-Ve",
+     "VAW"
+    ]
+   }
+  },
+  "Saturn": {
+   "1": {
+    "good": "In its own or exalted sign: high status, like a leader of a town or region.",
+    "caution": "Otherwise: hard childhood, poverty, laziness and low spirits.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Later in life, gains money and vehicles, often abroad; good money discipline.",
+    "caution": "Harsh speech, early poverty and distance from family.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Intelligent, generous, brave and successful; happy marriage.",
+    "caution": "Laziness, sorrow, or strained ties with siblings.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "Maturity and patience.",
+    "caution": "Unhappy home, no house or vehicles, mother's trouble, childhood illness, heart strain.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Serious work focus.",
+    "caution": "Few or late children, mental unrest, little happiness or kindness, money worries.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Defeats enemies, good health, wealth; hard-working.",
+    "caution": "Stubborn or crooked nature; worry from perfectionism.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Loyal partner once settled; possible wealth through partnership.",
+    "caution": "Late or unhappy marriage, ill health, poverty and wandering.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Can handle change and manage resources carefully.",
+    "caution": "Chronic illness, piles, poverty, failures and shorter life.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Persistence; can go on pilgrimages.",
+    "caution": "Poor luck, little wealth, troubles with father or children, weak faith.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Strong career: high office, leadership, farming or business; wealth and fame.",
+    "caution": "Overwork, worry, and focus on status.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Long life, lasting wealth, steady income, courage and good health; excellent house.",
+    "caution": "Few downsides; some distance from friends.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Can gain from foreign lands; pull towards spiritual life.",
+    "caution": "Losses, heavy spending, poor sleep or eyesight, shamelessness and insults.",
+    "src": [
+     "PD8",
+     "SAR",
+     "VF-Sa",
+     "VAW"
+    ]
+   }
+  },
+  "Rahu": {
+   "1": {
+    "good": "Wealth, strength and power; can succeed later in fields like tech or politics.",
+    "caution": "Shorter life, head or face ailments, confusion, and cutting ethical corners.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Can gain money through government favour, speculation or inheritance.",
+    "caution": "Harsh or two-faced speech, mouth trouble, family strain and anger.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Very brave, determined, long-lived and wealthy; good house for Rahu.",
+    "caution": "Friction with siblings; cunning ways.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "Can own property, often away from birthplace.",
+    "caution": "Unhappiness, mental unrest, mother's health trouble and home disputes.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Creativity, flair for performing arts or speculation.",
+    "caution": "Few or delayed children, stomach trouble, love troubles and hard-heartedness.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Defeats enemies, wins cases, wealth and long life; good house for Rahu.",
+    "caution": "Health ups and downs; trouble from enemies at times.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Magnetic charm; possible gains through partnerships or abroad.",
+    "caution": "Marriage trouble or loss of partner, money lost through relationships.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Interest in occult or research; possible inheritance.",
+    "caution": "Chronic illness, accidents, hidden wrongdoing and shorter life.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Can lead a group or village; foreign travel and learning.",
+    "caution": "Strain with father, little charity or rigid beliefs; sources differ, one says kind and pious.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "EV",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Fame, fearlessness and later career success.",
+    "caution": "Setbacks before success, few children; some texts warn of bad company.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Wealth, long life, wishes fulfilled, big network; one of Rahu's best houses.",
+    "caution": "Fewer children, ear trouble; can be arrogant or manipulative.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Gains or living abroad; possible support from influential people.",
+    "caution": "Wasteful spending, secret wrongdoing, eye trouble and poor sleep.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AV",
+     "VF-Ra",
+     "EV"
+    ]
+   }
+  },
+  "Ketu": {
+   "1": {
+    "good": "Maturity, wisdom and spiritual leanings, especially later in life.",
+    "caution": "Unhappiness, bad company, health issues or headaches, and loss of status.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "2": {
+    "good": "Few classical positives; modern sources mention gifts from parents.",
+    "caution": "Poor savings, weak education, harsh speech or speech defects, family trouble.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "3": {
+    "good": "Long life, strength, wealth, fame and courage; defeats enemies.",
+    "caution": "Loss of or trouble with siblings; career struggle early on.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "4": {
+    "good": "Peace and wealth later in life.",
+    "caution": "Loss of home, land or mother's comfort; may leave native place.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "5": {
+    "good": "Strong intuition.",
+    "caution": "Few or troubled children, stomach trouble, education setbacks, bad temper.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "6": {
+    "good": "Generous, famous, defeats enemies and wins cases; good house for Ketu.",
+    "caution": "Some texts warn of trouble from maternal relatives; success after early setbacks.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "7": {
+    "good": "Can defeat rivals.",
+    "caution": "Marriage trouble or separation, bad associations, bowel trouble and humiliation.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "8": {
+    "good": "Interest in astrology, occult and spiritual research.",
+    "caution": "Short life, accidents or injury, quarrels and separation from loved ones.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "9": {
+    "good": "Can become a scholar, teacher or spiritual guide; some gains through others.",
+    "caution": "Bad luck, loss of father, money trouble and wrong conduct.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VAW"
+    ]
+   },
+   "10": {
+    "good": "Bold, energetic and known for courage; suits technical fields.",
+    "caution": "Obstacles at work, late success, little support from father.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "11": {
+    "good": "Saves money, enjoys comforts and succeeds in what they start; very good house.",
+    "caution": "Worry over children or their health.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "VAW"
+    ]
+   },
+   "12": {
+    "good": "Spiritual growth, charity, success abroad; some texts say king-like.",
+    "caution": "Secret wrongdoing, wasteful spending and eye trouble; sources differ on whether this is good.",
+    "src": [
+     "PD8",
+     "BS",
+     "CC",
+     "AVk",
+     "VF-Ke",
+     "EV"
+    ]
+   }
+  }
+ }
+}
